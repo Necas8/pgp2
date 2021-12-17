@@ -1,5 +1,6 @@
-public class Utilizador
-{
+package main;
+
+public class Utilizador {
     String id;
     String nome;
     String morada;
